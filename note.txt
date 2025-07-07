@@ -1,0 +1,2 @@
+#distributionUrl=file\:/E:/gradle/gradle-8.9-all.zip    //gradle本地依赖
+https://mirrors.cloud.tencent.com/gradle/               //gradle下载镜像地址
